@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">PictureShow</string>
+
+    <string-array name="title">
+        <item>线性布局</item>
+        <item>网格布局</item>
+        <item>瀑布布局</item>
+    </string-array>
+
+    <string-array name="name">
+        <item>张一</item>
+        <item>张二</item>
+        <item>张三</item>
+        <item>张四</item>
+        <item>张五</item>
+        <item>张六</item>
+        <item>张七</item>
+        <item>张八</item>
+        <item>张九</item>
+        <item>张十</item>
+    </string-array>
+
+    <string-array name="mode">
+        <item>我在等风也等你。</item>
+        <item>苦酒折柳今相离，无风无月也无你。</item>
+        <item>有些人，一旦遇见，便一眼万年。</item>
+        <item>有些心动，一旦开始，便覆水难收。</item>
+        <item>静水流深，沧笙踏歌。</item>
+        <item>三生阴晴圆缺，一朝悲欢离合。</item>
+        <item>花谢花飞飞满天，纷踏落花苦流连。</item>
+        <item>怨花无情随风尽。</item>
+        <item>多少红颜悴，多少相思碎。</item>
+        <item>你是我猜不到的不知所措，我是你想不到的无关痛痒。</item>
+    </string-array>
+
+</resources>
